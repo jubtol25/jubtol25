@@ -5,7 +5,9 @@
 Transformo dados financeiros e operacionais em indicadores e dashboards que apoiam a tomada de decisão. Trabalho de ponta a ponta: extração e tratamento de dados (ETL), modelagem e consultas em SQL e visualização em Power BI.
 
 🌐 **Portfólio:** [jubtol25.github.io](https://jubtol25.github.io)
+
 💼 **LinkedIn:** [linkedin.com/in/julianetolino](https://www.linkedin.com/in/julianetolino)
+
 📍 Araraquara, SP
 
 ### 🛠️ Ferramentas
